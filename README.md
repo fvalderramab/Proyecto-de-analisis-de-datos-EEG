@@ -1,2 +1,4 @@
 # Proyecto-de-analisis-de-datos-EEG
-Proyecto de análisis y visualización de datos para el primer módulo del diplomado en Machine Learning y Data Science.
+Se escogió el conjunto de datos [Sleepy Driver EEG Brainwave Data](https://www.kaggle.com/datasets/naddamuhhamed/sleepy-driver-eeg-brainwave-data) de la plataforma Kaggle para el análisis y visualización de datos como proyecto práctico del primer módulo del diplomado en Machine Learning y Data Science.
+
+En la descripción de este conjunto de datos de la plataforma Kaggle se especifica que los datos sobre las señales encefalográficas (ondas EEG) son divididos y especificados por el mismo dispositivo de medición, sin ningún preprocesamiento hecho. Entonces justamente el enfoque del presente proyecto consiste en la realización de un análisis y preprocesamiento de estos datos para la obtención de conclusiones que nos permitan identificar si hay alguna relación de causalidad de algún tipo entre las señales EEG y el estado de somnolencia.
